@@ -1,0 +1,144 @@
+            a{
+              font-family: Avenir;
+             }
+
+            body{
+                    margin: 0px;
+                }
+
+            table,td,th{
+                        border: solid 2px;
+                        border-collapse: collapse;
+                        max-width: 100%;
+                       }
+      
+            td,th{ 
+                  padding: 7px 100px; 
+                  text-align: left
+                 }
+
+            p{
+              text-align: justify  center;
+             }
+
+            h2{
+                font-size: 25px;              
+              }
+
+            #heading-style{
+                            color: rgb(181, 32, 32);
+                            font-size: 50px;
+                            font-family: Avenir;
+                          }
+
+            #menu{
+                  text-align: center;
+                  text-align: middle;
+                  margin: auto;
+                  background-color: rgb(150, 24, 24);
+                 }
+
+            #content{
+                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                        max-width: 1000px;
+                        margin: auto;
+                        text-align: center;
+                        font-size: 20px;
+                    }
+
+            #photo_of_school{
+                              text-align: center;
+                              margin: auto;
+                            }        
+
+            #photo_logo{
+                        text-align: center;
+                        margin-top: 10px;
+                        margin-bottom: -15px;
+                        margin-left: 34px;
+                       }
+
+            #photo_of_map{
+                          text-align: center;
+                          margin-bottom:30px;
+                         }
+                         
+            #photo_of_garden{
+                              text-align: center;
+                              margin-bottom: 20px;
+                            }
+            #photo_of_art{
+                          text-align: center;
+                          margin-bottom: 20px;
+                         }
+
+            #photo_of_location{
+                              text-align: center;
+                              margin-top: 20px;
+                              margin-bottom: 20px;
+                              }
+
+            #photo_of_time{
+                          text-align: center;
+                          margin-bottom: 20px;
+                          }   
+            
+            #photo_of_exit{
+                          text-align: center;
+                          margin-bottom: 20px;
+                          }  
+
+            .menu-item{
+                        color: white;
+                        display: inline-block;
+                        padding: 13px 20px;
+                        background-color: rgba(255, 0, 0, 0.207);
+                      }
+
+            .menu-item:hover{
+                                background-color: rgba(255, 0, 0, 0.529);
+                                box-shadow: black 3px 3px;
+                            }
+
+            .photo_building{
+                            width: 800px;
+                            max-width: 100%;
+                           }
+              
+            .photo_logo{
+                          width: 150px;
+                       }
+
+            .photo_map{
+                        width: 800px;
+                        max-width: 100%;
+                      }
+
+            .photo_garden{
+                          width: 700px;
+                          max-width: 100%;
+                         }
+
+            .photo_art{
+                        width: 400px;
+                        max-width: 100%;
+                      }
+
+            .table{
+                    margin: auto;
+                    max-width: 100%;
+                  }
+
+            .photo_location{
+                            text-align: center;
+                            width: 500px;
+                            max-width: 100%;
+                           }
+            .photo_time{
+                          width: 700px;
+                          max-width: 100%;
+                         }
+            .photo_exit{
+                        width: 700px;
+                        max-width: 100%;
+                       }
